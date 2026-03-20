@@ -46,8 +46,8 @@ Simulador físico interativo que calcula a trajetória de um projétil com arras
 
 4. **Execute o app**
   ```bash
-  Execute o app
-  ```
+ streamlit run app.py
+ ```
 
 ## 📁 Estrutura de Pastas
 ```bash
