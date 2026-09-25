@@ -67,6 +67,3 @@ Ajuste os controles na barra lateral (velocidade inicial, ângulo, massa, arrast
 Observe a trajetória no gráfico e as métricas (alcance, tempo de voo).
 
 Clique em “🤖 Sugerir Otimização”, a IA local analisará os parâmetros atuais e recomendará novos valores para maximizar o alcance, explicando o raciocínio físico.
-
-## 📄 Licença
-MIT License – sinta-se à vontade para usar, modificar e contribuir.
